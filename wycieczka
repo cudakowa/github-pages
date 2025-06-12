@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja Wycieczka do Lasówki</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f8f5;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        .attraction {
+            background: #fff;
+            margin: 15px 0;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Przygoda w Lasówce!</h1>
+        <p>Nasza wycieczka pełna niespodzianek i przygód</p>
+    </header>
+
+    <section>
+        <div class="attraction">
+            <h2>🚗 Przejazd z Wrocławia do Kotliny Kłodzkiej</h2>
+            <img src="https://cdn.pixabay.com/photo/2017/08/01/08/29/road-2569570_960_720.jpg" alt="Droga przez góry">
+            <p>Rozpoczęliśmy naszą podróż we Wrocławiu i ruszyliśmy w stronę malowniczej Kotliny Kłodzkiej. Widoki były niesamowite!</p>
+        </div>
+
+        <div class="attraction">
+            <h2>🍦 Lody w Kotlinie Kłodzkiej</h2>
+            <img src="https://cdn.pixabay.com/photo/2016/07/05/17/24/ice-cream-1494869_960_720.jpg" alt="Lody w wafelku">
+            <p>Po przyjeździe zrobiliśmy sobie przerwę na pyszne lody – smakowały wybornie!</p>
+        </div>
+
+        <div class="attraction">
+            <h2>🏰 Zwiedzanie Kotliny Kłodzkiej</h2>
+            <img src="https://cdn.pixabay.com/photo/2020/04/17/11/51/klodzko-5053816_960_720.jpg" alt="Zamek lub miasto w Kotlinie Kłodzkiej">
+            <p>Zwiedziliśmy piękne zakątki Kotliny – pełne historii, zamków i uroczych uliczek.</p>
+        </div>
+
+        <div class="attraction">
+            <h2>🚌 Skibus do Lasówki</h2>
+            <img src="https://cdn.pixabay.com/photo/2017/08/06/08/32/bus-2598137_960_720.jpg" alt="Skibus w górach">
+            <p>Następnie przesiedliśmy się do skibusa, który zawiózł nas prosto do Lasówki – zaczęła się prawdziwa przygoda!</p>
+        </div>
+
+        <div class="attraction">
+            <h2>🚶‍♀️ Długi spacer w lesie</h2>
+            <img src="https://cdn.pixabay.com/photo/2015/11/19/21/11/forest-1056415_960_720.jpg" alt="Spacer w lesie">
+            <p>Wędrowaliśmy przez gęsty, pachnący las. Świeże powietrze i śpiew ptaków tworzyły magiczną atmosferę.</p>
+        </div>
+
+        <div class="attraction">
+            <h2>🕵️ Podchody z zadaniami</h2>
+            <img src="https://cdn.pixabay.com/photo/2016/09/17/06/35/compass-1674495_960_720.jpg" alt="Kompas i mapa">
+            <p>Graliśmy w podchody! Były zagadki, ukryte wskazówki i mnóstwo śmiechu.</p>
+        </div>
+
+        <div class="attraction">
+            <h2>🔥 Rozpalanie ogniska</h2>
+            <img src="https://cdn.pixabay.com/photo/2015/05/31/14/03/campfire-791348_960_720.jpg" alt="Ognisko">
+            <p>Wieczorem rozpaliliśmy ognisko. Ciepło płomieni i trzask drewna umilały wieczór.</p>
+        </div>
+
+        <div class="attraction">
+            <h2>🐉 Latanie na smokach</h2>
+            <img src="https://cdn.pixabay.com/photo/2017/06/01/21/43/fantasy-2368814_960_720.jpg" alt="Smok fantasy">
+            <p>W naszej wyobraźni dosiedliśmy smoków i wzbiliśmy się nad górami – to była fantastyczna zabawa!</p>
+        </div>
+
+        <div class="attraction">
+            <h2>🧇 Robienie gofrów na ognisku</h2>
+            <img src="https://cdn.pixabay.com/photo/2016/10/27/22/52/waffle-1776748_960_720.jpg" alt="Gofry na ogniu">
+            <p>Na koniec przygotowaliśmy gofry nad ogniem – były chrupiące i pyszne!</p>
+        </div>
+    </section>
+</body>
+</html>
